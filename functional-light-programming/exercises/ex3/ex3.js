@@ -10,4 +10,4 @@ function mult(...args) {
 
 mult(3,4,5);	// 60
 
-mult(3,4,5,6);	// Oops!
+mult(3,4,5,6);	// 360
